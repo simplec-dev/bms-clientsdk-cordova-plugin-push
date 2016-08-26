@@ -5,6 +5,6 @@
 
 #import <Cordova/CDV.h>
 #import <IMFPush/IMFPush.h>
-//#import <IMFPush/IMFPushClient.h>
-//#import <IMFResponse+IMFPushCategory.h>
+#import <IMFPush/IMFPushClient.h>
+#import <IMFResponse+IMFPushCategory.h>
 #import "IMFClient+initializeException.h"
